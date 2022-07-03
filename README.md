@@ -1,5 +1,5 @@
 # obo
-the game
+a game of risk and reward
 
 ## basic rules
 n players
